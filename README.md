@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Ejemplo TabBar: FlutLab - Flutter Online IDE
 
-- Link referencia [https://flutlab.io/docs]([https://codesinsider.com/flutter-listview-example/?expand_article=1#google_vignette](https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1)https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1)
+- Link referencia [https://flutlab.io/docs](https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1)
 - Christian Alcantara a.21308051280308@cbtis128.edu.mx
 
 ## resultado de mi Aplicacion en Flutter
